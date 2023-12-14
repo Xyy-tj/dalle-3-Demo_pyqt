@@ -1,0 +1,10 @@
+
+dalle/.env
+dist
+build
+*.pyc
+*.pyo
+*.egg-info
+.tox
+figs/*.*
+*.spec
