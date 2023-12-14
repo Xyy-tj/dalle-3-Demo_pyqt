@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9-blue)](https://www.python.org/)
+[![PyQt5](https://img.shields.io/badge/PyQt-5-blue)](https://riverbankcomputing.com/software/pyqt/intro)
+![Release](https://img.shields.io/badge/Release-v0.0.1-blue)
+[![DALL·E](https://img.shields.io/badge/Powered%20by-DALL·E-9cf)](https://openai.com/dall-e/)
+
 # dalle-3 Demo_pyqt
  本项目基于Openai的Dalle-3接口开发，应用界面使用pyqt5完成，支持自定义绘画风格、分辨率、base_url和apikey等参数。
 
